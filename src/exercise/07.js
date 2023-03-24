@@ -9,7 +9,7 @@ const allItems = [
   {id: 'grape', value: '🍇 grape'},
   {id: 'pear', value: '🍐 pear'},
 ]
-
+consoel.log("hej")
 function App() {
   const [items, setItems] = React.useState(allItems)
 
